@@ -1,4 +1,3 @@
-# Bonedust RPG
 BoneDust RPG is a simplified RPG that uses a **20-sided die** against a character's ability. This game's combat can be lethal. The Referee will award players for thinking outside the box. It is meant to be narrative-focused with simple mechanics, only rolling for risky situations against a character's ability score.
 
 ## Credit
