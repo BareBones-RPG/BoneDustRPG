@@ -112,6 +112,7 @@ At the beginning of each round, PCs will declare their actions before any dice a
 - Performing Another Reasonable Action
 
 ### Weapons
+
 |Weapon Type|Example Weapons|Damage Die|
 |:---|:---|:---:|
 |Light Weapons|Club, Dagger, Short Sword|d4|
@@ -119,6 +120,7 @@ At the beginning of each round, PCs will declare their actions before any dice a
 |Heavy Weapons|Greatsword, Halberd, Warhammer|d8|
 |Ranged Weapons|Crossbow, Shortbow, Sling|d6|
 |Heavy Ranged Weapons|Heavy Crossbow, Longbow|d8|
+
 
 ### When Reaching 0 HP
 
@@ -131,6 +133,7 @@ When a playable character reaches 0 Hit Points, they are knocked down. Referee w
 - **Instant Death:** If a character takes damage that reduces their Hit Points to a negative value, they die instantly.
 
 #### Scar Table
+
 How can I roll a d66? First Roll (Tens Digit): Roll a 1d6 and multiply the result by 10 to get the tens digit. Alternatively, you can treat the result as:
 
 1 = 10, 2 = 20, 3 = 30, 4 = 40, 5 = 50, and 6 = 60.
@@ -215,6 +218,7 @@ The same Insight score also limits how many spells the character can cast each d
 - Critical Successes or Failures can result in powerful outcomes or catastrophic consequences. The Referee will interpret these outcomes based on the situation and the nature of the spell.
 
 ### Spell Generator
+
 | Roll | Spell Name         | Description                                                  |
 |------|--------------------|--------------------------------------------------------------|
 | 11   | Arcane Flame       | Creates a small flame in the caster's hand that burns until extinguished. |
