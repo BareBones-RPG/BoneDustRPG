@@ -1,4 +1,4 @@
-BoneDust RPG is a simplified RPG that uses a **20-sided die** against a character's ability. This game's combat can be lethal. The Referee will award players for thinking outside the box. It is meant to be narrative-focused with simple mechanics, only rolling for risky situations against a character's ability score.
+Guazábara RPG is a simplified RPG that uses a **20-sided die** against a character's ability. This game's combat can be lethal. The Referee will award players for thinking outside the box. It is meant to be narrative-focused with simple mechanics, only rolling for risky situations against a character's ability score.
 
 ## Credit
 
@@ -80,7 +80,7 @@ Players will roll a d6 and add their MIGHT score to the roll to **calculate Max 
 
 ### What Abilities Do You Use?
 
-*BoneDust* uses **4 abilities** that represent each *test in the game*.
+*Guazábara* uses **4 abilities** that represent each *test in the game*.
 
 *   **AGILITY:** Used for balancing, swimming, and fleeing.
 *   **INSIGHT:** Used for Charming, pierceving, and spellcasting .
@@ -96,7 +96,7 @@ Player Characters do not roll to hit when attacking. Both sides will automatical
 Whenever multiple Player Characters or enemies attack one target, they all roll their damage die and keep the highest result. 
 
 #### Movement
-During Combat, Player Characters can move up to 40 feet or 8 squares on a battle map. In the BoneDust RPG, distances are simplified into three categories to make movement and engagement straightforward:
+During Combat, Player Characters can move up to 40 feet or 8 squares on a battle map. In the Guazábara RPG, distances are simplified into three categories to make movement and engagement straightforward:
 
 - **Close**: This represents anything within arm's reach, typically around 5 feet. It’s the range for melee combat and immediate interactions. Any creature or object in this range can be reached in one movement action.
 
@@ -191,14 +191,14 @@ Player Characters start with a number of inventory slots equal to their MIGHT sc
 
 ### Spells
 
-Spell casters have learned the basic principles of spellcasting and rituals, but they are still dangerous to use. There are only two categories for spells in BoneDust, Rituals and Spells. Spells are instantaneous actions that require focus and vocal casting. They can be learned, memorized, and stored in scrolls or spellbooks. If a spell caster loses their  (INSIGHT), the spell might fizzle out or misfire. The spell's effect lasts for one round or at the Referee's discretion.
+Spell casters have learned the basic principles of spellcasting and rituals, but they are still dangerous to use. There are only two categories for spells in Guazábara, Rituals and Spells. Spells are instantaneous actions that require focus and vocal casting. They can be learned, memorized, and stored in scrolls or spellbooks. If a spell caster loses their  (INSIGHT), the spell might fizzle out or misfire. The spell's effect lasts for one round or at the Referee's discretion.
 
 Rituals are lengthy and elaborate ceremonies. These can range from an hour to a full day, depending on the complexity and significance of the ritual (WILLPOWER). They often require specific components, rare ingredients, and certain environmental conditions. Rituals can summon creatures, enchant objects, or perform other powerful magic feats.
 
 The Referee will decide the effect of the ritual on the story.
 
 #### How Many Spells Can I Learn? Cast Per Day?:
-In BoneDust RPG, a character's ability to learn and cast spells is directly tied to their INSIGHT stat, which represents their understanding of arcane knowledge and their mental acuity. The higher the character's Insight, the more spells they can learn and the more frequently they can cast them.
+In Guazábara RPG, a character's ability to learn and cast spells is directly tied to their INSIGHT stat, which represents their understanding of arcane knowledge and their mental acuity. The higher the character's Insight, the more spells they can learn and the more frequently they can cast them.
 
 |STAT|# of Spells Can Be Learned| Cast per Day|
 |:---:|:---:|:---:|
