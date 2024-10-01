@@ -206,7 +206,7 @@ In Guazábara RPG, a character's ability to learn and cast spells is directly ti
 |11-13|2|3|
 |13-15|3|4|
 |16-17|4|5|
-|18+|5|6|
+|18|5|6|
 
 A character's Insight score determines the number of spells they can learn. For example, a character with an Insight of 8-10 can learn 1 spell, while a character with an Insight of 16-17 can learn up to 4 spells. This reflects the character's capacity to comprehend and retain arcane knowledge.
 
